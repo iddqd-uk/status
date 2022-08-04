@@ -20,7 +20,7 @@ status-website:
   cname: status.iddqd.uk
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  theme: dark # light, dark, night or ocean
+  theme: night # light, dark, night or ocean
   metaTags:
     - name: "robots"
       content: "noindex"
