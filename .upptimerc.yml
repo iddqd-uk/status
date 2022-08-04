@@ -9,7 +9,7 @@ sites:
     maxResponseTime: 5000
   - name: Holy shit blog
     url: https://blog.iddqd.uk
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Status
     url: https://status.iddqd.uk
     maxResponseTime: 5000
