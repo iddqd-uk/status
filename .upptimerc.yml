@@ -26,8 +26,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Index
+      href: https://iddqd.uk
   robotsText: "User-agent: *\nDisallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
