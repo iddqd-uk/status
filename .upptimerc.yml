@@ -5,12 +5,15 @@ repo: status # The name of this repository
 assignees: [tarampampam] # To be assigned to every downtime issue
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Index page
+    url: https://iddqd.uk
+    maxResponseTime: 5000
+  - name: Holy shit blog
+    url: https://blog.iddqd.uk
+    maxResponseTime: 5000
+  - name: Status
+    url: https://status.iddqd.uk
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
