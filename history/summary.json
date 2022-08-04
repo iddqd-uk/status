@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 130,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "time": 119,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://blog.iddqd.uk",
     "icon": "https://favicons.githubusercontent.com/blog.iddqd.uk",
     "slug": "holy-shit-blog",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 187,
-    "timeDay": 187,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "status": "up",
+    "uptime": "70.94%",
+    "uptimeDay": "70.94%",
+    "uptimeWeek": "70.94%",
+    "uptimeMonth": "70.94%",
+    "uptimeYear": "70.94%",
+    "time": 189,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2022-08-04": 0
+      "2022-08-04": 25
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/status.iddqd.uk",
     "slug": "status",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 248,
-    "timeDay": 248,
-    "timeWeek": 248,
-    "timeMonth": 248,
-    "timeYear": 248,
+    "uptime": "70.94%",
+    "uptimeDay": "70.94%",
+    "uptimeWeek": "70.94%",
+    "uptimeMonth": "70.94%",
+    "uptimeYear": "70.94%",
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-08-04": 0
+      "2022-08-04": 25
     }
   }
 ]
