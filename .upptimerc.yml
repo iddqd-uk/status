@@ -10,6 +10,21 @@ sites:
   - name: Holy shit blog
     url: https://blog.iddqd.uk
     maxResponseTime: 10000
+  - name: Traefik UI
+    url: https://traefik.iddqd.uk
+    maxResponseTime: 10000
+    expectedStatusCodes: [401]
+  - name: Consul UI
+    url: https://consul.iddqd.uk
+    maxResponseTime: 10000
+    expectedStatusCodes: [401]
+  - name: Nomad UI
+    url: https://nomad.iddqd.uk
+    maxResponseTime: 10000
+    expectedStatusCodes: [401]
+  - name: Nomad API
+    url: https://nomad.iddqd.uk/v1/status/leader
+    maxResponseTime: 10000
   - name: Status
     url: https://status.iddqd.uk
     maxResponseTime: 5000
