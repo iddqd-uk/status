@@ -1,7 +1,7 @@
 url: https://traefik.iddqd.uk
-status: down
-code: 521
-responseTime: 167
-lastUpdated: 2022-08-09T11:31:35.584Z
+status: up
+code: 401
+responseTime: 675
+lastUpdated: 2022-08-09T11:42:35.988Z
 startTime: Mon Aug 08 2022 19:04:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
