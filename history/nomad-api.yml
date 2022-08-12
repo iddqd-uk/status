@@ -1,7 +1,7 @@
 url: https://nomad.iddqd.uk/v1/status/leader
-status: down
-code: 525
-responseTime: 390
-lastUpdated: 2022-08-12T11:27:32.132Z
+status: up
+code: 200
+responseTime: 140
+lastUpdated: 2022-08-12T13:02:10.587Z
 startTime: Mon Aug 08 2022 19:04:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
