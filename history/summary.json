@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/blog.iddqd.uk",
     "slug": "holy-shit-blog",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 196,
     "timeWeek": 176,
     "timeMonth": 159,
     "timeYear": 159,
-    "dailyMinutesDown": {
-      "2022-08-04": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Traefik UI",
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/traefik.iddqd.uk",
     "slug": "traefik-ui",
     "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 545,
     "timeDay": 588,
     "timeWeek": 545,
     "timeMonth": 545,
     "timeYear": 545,
-    "dailyMinutesDown": {
-      "2022-08-12": 44
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Consul UI",
@@ -63,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/consul.iddqd.uk",
     "slug": "consul-ui",
     "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 547,
     "timeDay": 573,
     "timeWeek": 547,
     "timeMonth": 547,
     "timeYear": 547,
-    "dailyMinutesDown": {
-      "2022-08-12": 44
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nomad UI",
@@ -83,39 +77,35 @@
     "icon": "https://favicons.githubusercontent.com/nomad.iddqd.uk",
     "slug": "nomad-ui",
     "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 540,
     "timeDay": 581,
     "timeWeek": 540,
     "timeMonth": 540,
     "timeYear": 540,
-    "dailyMinutesDown": {
-      "2022-08-12": 44
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nomad API",
     "url": "https://nomad.iddqd.uk/v1/status/leader",
     "icon": "https://favicons.githubusercontent.com/nomad.iddqd.uk",
     "slug": "nomad-api",
-    "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
-    "time": 204,
-    "timeDay": 305,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
-    "dailyMinutesDown": {
-      "2022-08-12": 44
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 250,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Status",
@@ -123,19 +113,16 @@
     "icon": "https://favicons.githubusercontent.com/status.iddqd.uk",
     "slug": "status",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "87.67%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "98.29%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 171,
     "timeDay": 186,
     "timeWeek": 170,
     "timeMonth": 171,
     "timeYear": 171,
-    "dailyMinutesDown": {
-      "2022-08-12": 176,
-      "2022-08-04": 25
-    }
+    "dailyMinutesDown": {}
   }
 ]
