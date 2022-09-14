@@ -1,7 +1,7 @@
 url: https://status.iddqd.uk
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-09-14T10:52:28.296Z
+status: up
+code: 200
+responseTime: 70
+lastUpdated: 2022-09-14T11:06:23.653Z
 startTime: Thu Aug 04 2022 06:53:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
