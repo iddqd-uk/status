@@ -112,9 +112,9 @@
     "url": "https://status.iddqd.uk",
     "icon": "https://favicons.githubusercontent.com/status.iddqd.uk",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +123,8 @@
     "timeWeek": 149,
     "timeMonth": 149,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   }
 ]
