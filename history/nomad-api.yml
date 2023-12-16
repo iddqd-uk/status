@@ -1,7 +1,7 @@
 url: https://nomad.iddqd.uk/v1/status/leader
 status: up
 code: 200
-responseTime: 159
-lastUpdated: 2023-12-15T23:06:34.122Z
+responseTime: 200
+lastUpdated: 2023-12-16T23:06:26.710Z
 startTime: 2022-08-08T19:04:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
