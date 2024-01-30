@@ -42,19 +42,19 @@
     "url": "https://traefik.iddqd.uk",
     "icon": "https://icons.duckduckgo.com/ip3/traefik.iddqd.uk.ico",
     "slug": "traefik-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 563,
-    "timeDay": 620,
-    "timeWeek": 517,
-    "timeMonth": 503,
+    "timeDay": 625,
+    "timeWeek": 531,
+    "timeMonth": 507,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2024-01-30": 0
+      "2024-01-30": 9
     }
   },
   {
@@ -117,10 +117,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.iddqd.uk.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 138,
     "timeDay": 125,
@@ -128,7 +128,7 @@
     "timeMonth": 136,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-01-30": 0,
+      "2024-01-30": 9,
       "2023-10-30": 31
     }
   }
