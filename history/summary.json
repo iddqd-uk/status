@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 147,
-    "timeDay": 269,
-    "timeWeek": 182,
-    "timeMonth": 150,
-    "timeYear": 141,
+    "timeDay": 136,
+    "timeWeek": 175,
+    "timeMonth": 151,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2023-10-30": 31
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 199,
-    "timeWeek": 138,
+    "timeDay": 171,
+    "timeWeek": 152,
     "timeMonth": 140,
     "timeYear": 134,
     "dailyMinutesDown": {}
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 561,
-    "timeDay": 629,
-    "timeWeek": 495,
-    "timeMonth": 502,
+    "timeDay": 638,
+    "timeWeek": 526,
+    "timeMonth": 507,
     "timeYear": 538,
     "dailyMinutesDown": {}
   },
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
-    "timeDay": 600,
-    "timeWeek": 502,
-    "timeMonth": 506,
-    "timeYear": 544,
+    "timeDay": 630,
+    "timeWeek": 526,
+    "timeMonth": 511,
+    "timeYear": 545,
     "dailyMinutesDown": {}
   },
   {
@@ -84,10 +84,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 609,
-    "timeWeek": 487,
-    "timeMonth": 495,
+    "time": 541,
+    "timeDay": 549,
+    "timeWeek": 505,
+    "timeMonth": 499,
     "timeYear": 532,
     "dailyMinutesDown": {}
   },
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 202,
-    "timeWeek": 165,
-    "timeMonth": 161,
+    "timeDay": 179,
+    "timeWeek": 171,
+    "timeMonth": 162,
     "timeYear": 178,
     "dailyMinutesDown": {}
   },
@@ -121,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 138,
-    "timeDay": 192,
-    "timeWeek": 127,
+    "timeDay": 327,
+    "timeWeek": 160,
     "timeMonth": 138,
-    "timeYear": 131,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2023-10-30": 31
     }
