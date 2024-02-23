@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 147,
-    "timeDay": 181,
-    "timeWeek": 143,
-    "timeMonth": 152,
+    "timeDay": 233,
+    "timeWeek": 163,
+    "timeMonth": 155,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2023-10-30": 31
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 217,
-    "timeWeek": 130,
-    "timeMonth": 144,
+    "timeDay": 252,
+    "timeWeek": 156,
+    "timeMonth": 149,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 617,
-    "timeWeek": 519,
-    "timeMonth": 520,
-    "timeYear": 537,
+    "timeDay": 580,
+    "timeWeek": 533,
+    "timeMonth": 524,
+    "timeYear": 536,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 605,
-    "timeWeek": 545,
-    "timeMonth": 531,
-    "timeYear": 545,
+    "time": 551,
+    "timeDay": 436,
+    "timeWeek": 511,
+    "timeMonth": 532,
+    "timeYear": 544,
     "dailyMinutesDown": {}
   },
   {
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 539,
-    "timeDay": 623,
+    "timeDay": 430,
     "timeWeek": 512,
-    "timeMonth": 508,
-    "timeYear": 531,
+    "timeMonth": 507,
+    "timeYear": 530,
     "dailyMinutesDown": {}
   },
   {
@@ -103,7 +103,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 203,
+    "timeDay": 138,
     "timeWeek": 167,
     "timeMonth": 167,
     "timeYear": 178,
@@ -121,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 136,
-    "timeDay": 225,
-    "timeWeek": 138,
-    "timeMonth": 137,
+    "timeDay": 85,
+    "timeWeek": 137,
+    "timeMonth": 136,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2023-10-30": 31
